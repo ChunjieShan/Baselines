@@ -1,0 +1,15 @@
+# ./simpleconv3_pt/data/
+# ./Test6_mobilenet/data/
+# ./yolov5/SDK/data/brain/*
+# ./yolov5/SDK/data/smoke/*
+# ./yolov5/SDK/data/images/*
+# ./yolov5/SDK/data/coco128/*
+yolov5/SDK/models/brain/best.pt
+yolov5/SDK/data/**
+yolov5/SDK/models/**
+yolov5/SDK/runs/**
+simpleconv3_pt/Resnet.pth
+simpleconv3_tf_1/logs/*
+simpleconv3_tf_1/checkpoints/*
+simpleconv3_tf_2/logs/**
+simpleconv3_tf_2/models/**
