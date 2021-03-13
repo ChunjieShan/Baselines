@@ -13,3 +13,4 @@ simpleconv3_tf_1/logs/*
 simpleconv3_tf_1/checkpoints/*
 simpleconv3_tf_2/logs/**
 simpleconv3_tf_2/models/**
+
